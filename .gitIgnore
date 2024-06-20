@@ -1,1 +1,3 @@
 /.vs
+/DynamicApplicationFormAPI/appsettings.json
+/DynamicApplicationFormAPI/appsettings.Development.json

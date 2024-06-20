@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DynamicApplicationFormAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf1121549a2d97c354219d525a3b7794eca4102d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DynamicApplicationFormAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DynamicApplicationFormAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
